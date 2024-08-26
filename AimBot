@@ -258,8 +258,8 @@ do
     Window:SelectTab(1)
 
     Tabs.Aimbot:AddParagraph({
-        Title = "Open Aimbot",
-        Content = "Universal Open Source Aimbot\nhttps://github.com/ttwizz/Open-Aimbot"
+        Title = "Aimbot Universal",
+        Content = "ta olhando uq?"
     })
 
     local AimbotSection = Tabs.Aimbot:AddSection("Aimbot")
